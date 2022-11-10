@@ -1,0 +1,90 @@
+{
+  "project_info": {
+    "project_number": "29700169778",
+    "project_id": "food-seller-d0a28",
+    "storage_bucket": "food-seller-d0a28.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29700169778:android:721ba801ff5ea21b58dc2b",
+        "android_client_info": {
+          "package_name": "in.sbcesports.Food_Rider"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29700169778-nou81qe478d5r60s33f1q1sqtjb528go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCBXKaWmYqYEKtw-2UZRPsuYOLFEJfCts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29700169778-nou81qe478d5r60s33f1q1sqtjb528go.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "29700169778-2keblmdkr5qg2mplee31uveri9l1v0dq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sellerAppNew"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:29700169778:android:9f37648394a23aee58dc2b",
+        "android_client_info": {
+          "package_name": "in.sbcesports.Food_Seller_App"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "29700169778-fmbo7q908iem6gfokdmp89o1iq7n6vaq.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "in.sbcesports.Food_Seller_App",
+            "certificate_hash": "83c7b5fb00549a9dfa0b812f5ee4c79182192021"
+          }
+        },
+        {
+          "client_id": "29700169778-nou81qe478d5r60s33f1q1sqtjb528go.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDCBXKaWmYqYEKtw-2UZRPsuYOLFEJfCts"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "29700169778-nou81qe478d5r60s33f1q1sqtjb528go.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "29700169778-2keblmdkr5qg2mplee31uveri9l1v0dq.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.sellerAppNew"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
